@@ -10,8 +10,8 @@
 // @run-at       document-start
 // @noframes
 // @license      MIT
-// @updateURL    https://raw.githubusercontent.com/ShmidtS/AIStudio_StyleFix/main/AI_Studio_Performance_Style_Fix.user.js
-// @downloadURL  https://raw.githubusercontent.com/ShmidtS/AIStudio_StyleFix/main/AI_Studio_Performance_Style_Fix.user.js
+// @updateURL    https://raw.githubusercontent.com/ShmidtS/AIStudio_StyleFix/main/AI%20Studio%20Performance%20Style%20Fix.user.js
+// @downloadURL  https://raw.githubusercontent.com/ShmidtS/AIStudio_StyleFix/main/AI%20Studio%20Performance%20Style%20Fix.user.js
 // ==/UserScript==
 
 (function() {
