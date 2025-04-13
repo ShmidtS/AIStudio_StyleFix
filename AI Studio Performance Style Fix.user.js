@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AI Studio Performance & Style Fix
-// @namespace    http://tampermonkey.net/
+// @namespace    AI_Studio_Performance_Style_Fix
 // @version      3.1.0
 // @description  Applies CSS optimizations for performance and style (chat layout, improved code blocks with internal scroll), blocks GTM, and removes the cookie banner for AI Studio.
 // @author       Generated AI & ShmidtS
